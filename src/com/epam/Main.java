@@ -28,7 +28,7 @@ public class Main {
                 sb.append(a);
             }
         }
-        return sb.toString().toCharArray();
+        return sb.toString().toCharArray();  //very good invocation
     }
 
 
